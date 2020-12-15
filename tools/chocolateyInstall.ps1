@@ -1,5 +1,5 @@
-﻿$packageName = 'mingw-get'
-$url='http://hivelocity.dl.sourceforge.net/project/mingw/Installer/mingw-get/mingw-get-0.6.2-beta-20131004-1/mingw-get-0.6.2-mingw32-beta-20131004-1-bin.zip'
+﻿$packageName = 'amd-mingw-get'
+$url='https://mirrors.xtom.com/osdn/mingw/68260/mingw-get-0.6.3-mingw32-pre-20170905-1-bin.tar.xz'
 $binRoot = Get-BinRoot
 $installDir = Join-Path "$binRoot" 'mingw64'
 Install-ChocolateyPath $installDir 'Machine'
