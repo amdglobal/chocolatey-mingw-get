@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>mingw-get</id>
-    <title>mingw-get</title>
+    <id>amd-mingw-get</id>
+    <title>amd-mingw-get</title>
     <version>0.6.3</version>
     <authors>AMD Global Telemedicine</authors>
     <owners>Zachary Hueras</owners>
