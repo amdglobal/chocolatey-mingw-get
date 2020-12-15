@@ -3,9 +3,9 @@
   <metadata>
     <id>mingw-get</id>
     <title>mingw-get</title>
-    <version>1.0.3.20150411</version>
-    <authors>MingW Maintainers</authors>
-    <owners>Robert Coleman</owners>
+    <version>0.6.3</version>
+    <authors>AMD Global Telemedicine</authors>
+    <owners>Zachary Hueras</owners>
     <summary>mingw-get</summary>
     <description>A command-line installer (mingw-get) for MinGW and MSYS deployment on MS-Windows. Package Source/Issues: https://github.com/rjocoleman/chocolatey-mingw-get</description>
     <projectUrl>http://mingw.org</projectUrl>
